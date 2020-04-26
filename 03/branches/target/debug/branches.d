@@ -1,0 +1,1 @@
+/Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/03/branches/target/debug/branches: /Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/03/branches/src/main.rs
