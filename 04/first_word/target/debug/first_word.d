@@ -1,0 +1,1 @@
+/Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/04/first_word/target/debug/first_word: /Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/04/first_word/src/main.rs
