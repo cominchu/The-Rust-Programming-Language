@@ -1,0 +1,1 @@
+/Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/06/if_let/target/debug/if_let: /Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/06/if_let/src/main.rs
