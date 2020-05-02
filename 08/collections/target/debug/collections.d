@@ -1,0 +1,1 @@
+/Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/08/collections/target/debug/collections: /Users/fukui/Documents/program/rust/get_started/The-Rust-Programming-Language/08/collections/src/main.rs
